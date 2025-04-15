@@ -1,4 +1,4 @@
-# RTA_decision_rule
+# RTA decision rule
 Serwis API zbudowany w Pythonie z użyciem Flask, który implementuje regułę decyzyjną na podstawie sumy dwóch liczb.
 
 Model zdefiniowany jest jako reguła:
